@@ -15,7 +15,7 @@
                     <li> <a href="index.php?ruta=inicio">Inicio</a></li>
                     <li> <a href="index.php?ruta=plantel">Plantel</a></li>
                     <li> <a href="index.php?ruta=promedios">Promedios</a></li>
-                    <li> <a href="index.php?ruta=Historia">Historia</a></li>
+                    <li> <a href="index.php?ruta=historia">Historia</a></li>
                     <li> <a href="index.php?ruta=salir"> Salir</a></li>
                 </ul>
             </nav>

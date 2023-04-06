@@ -14,7 +14,7 @@ margin-right: auto;
 width: 940px;
 position: fixed;
 height: 75px;
-border-left: 20px solid #02c39a;
+border-left: 20px solid #0095ff;
 background-color: #fff;
 }
 #botonera_principal ul {
@@ -43,18 +43,18 @@ padding: 0;
 #marca {
 height: 100px;
 padding-top: 200px;
-border-left: solid 20px #fd286f;
+border-left: solid 20px #ffffff;
 background: rgb(160, 244, 215);
 background: linear-gradient(
 0deg,
-rgba(160, 244, 215, 0.9957876175548589) 0%,
-rgba(18, 161, 123, 1) 100%
+rgba(0, 162, 255, 0.996) 0%,
+rgb(110, 209, 255) 100%
 );
 }
 #contenido {
 padding: 20px;
 background-color: #fff;
-border-left: 20px solid #02c39a;
+border-left: 20px solid #0095ff;
 }
 input,
 textarea {
