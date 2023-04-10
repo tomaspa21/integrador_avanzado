@@ -12,9 +12,8 @@ margin-right: auto;
 }
 #botonera_principal {
 width: 940px;
-position: fixed;
-height: 75px;
-border-left: 20px solid #0095ff;
+position: sticky;
+height: 65px;
 background-color: #fff;
 }
 #botonera_principal ul {
@@ -27,7 +26,7 @@ display: inline;
 }
 #botonera_principal ul li a {
 display: inline-block;
-color: #333;
+color: #000000;
 text-decoration: none;
 text-align: center;
 border-right: 1px dotted #ccc;
@@ -42,7 +41,7 @@ padding: 0;
 }
 #marca {
 height: 100px;
-padding-top: 200px;
+padding-block-start: 150px;
 border-left: solid 20px #ffffff;
 background: rgb(160, 244, 215);
 background: linear-gradient(

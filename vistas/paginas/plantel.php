@@ -8,6 +8,9 @@
     <title>Hispano Americano</title>
 </head>
 <body>
+    <div id="marca">
+                <h1>Hispano Americano</h1>
+            </div>
     <div id="contenedor">
         <header>
             <nav id="botonera_principal">
@@ -19,11 +22,7 @@
                     <li> <a href="index.php?ruta=salir"> Salir</a></li>
                 </ul>
             </nav>
-            <div id="marca">
-                <h1>Hispano Americano</h1>
-            </div>
         </header>
-
 <section>
     <h1> Club Social y Deportivo Hipano Americano </h1>
      <?php    
