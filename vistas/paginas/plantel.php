@@ -1,4 +1,3 @@
-!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -8,23 +7,8 @@
     <title>Hispano Americano</title>
 </head>
 <body>
-    <div id="marca">
-                <h1>Hispano Americano</h1>
-            </div>
-    <div id="contenedor">
-        <header>
-            <nav id="botonera_principal">
-                <ul>
-                    <li> <a href="index.php?ruta=inicio">Inicio</a></li>
-                    <li> <a href="index.php?ruta=plantel">Plantel</a></li>
-                    <li> <a href="index.php?ruta=promedios">Promedios</a></li>
-                    <li> <a href="index.php?ruta=historia">Historia</a></li>
-                    <li> <a href="index.php?ruta=salir"> Salir</a></li>
-                </ul>
-            </nav>
-        </header>
-<section>
-    <h1> Club Social y Deportivo Hipano Americano </h1>
+<div id="contenedor">                      
+<section>    
      <?php    
      echo "<h2> Plantel de Basquet Profesional Temporada 2022 </h2>";
      $nombre_1= "Lucas Reyes";

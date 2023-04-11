@@ -10,6 +10,9 @@
 <body>
     <div id="contenedor">
         <header>
+        <div id="marca">
+            <h1>Hispano Americano</h1>
+        </div>
             <nav id="botonera_principal">
                 <ul>
                     <li> <a href="index.php?ruta=inicio">Inicio</a></li>
@@ -18,10 +21,7 @@
                     <li> <a href="index.php?ruta=historia">Historia</a></li>
                     <li> <a href="index.php?ruta=salir"> Salir</a></li>
                 </ul>
-            </nav>
-            <div id="marca">
-                <h1>Hispano Americano</h1>
-            </div>
+            </nav>           
         </header>
         <section id="contenido">
             <?php 
